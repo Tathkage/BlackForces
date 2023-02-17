@@ -1,0 +1,7 @@
+name: BlackForces
+version: '${project.version}'
+main: com.tathluachc.blackforces.BlackForces
+api-version: 1.19
+commands:
+  forces:
+    usage: /forces
